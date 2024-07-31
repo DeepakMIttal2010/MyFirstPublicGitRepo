@@ -1,4 +1,4 @@
 # MyFirstPublicGitRepo
 My First Public Git Repo
 <br>
-Author By : Deepak MIttal
+Author By : Deepak MIttal (SCNL)
